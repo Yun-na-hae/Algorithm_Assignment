@@ -1,4 +1,8 @@
 C
 C++
 Java
+<<<<<<< HEAD
 Python
+=======
+Ruby
+>>>>>>> new2
